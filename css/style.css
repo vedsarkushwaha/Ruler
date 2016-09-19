@@ -25,7 +25,6 @@
     margin: .64em -1em -.64em;
     text-align: center;
     position: relative;
-    text-shadow: 1px 1px hsl(60, 60%, 84%);
 }
 .ruler li:before {
     content: '';
@@ -34,14 +33,4 @@
     height: .64em;
     top: -.64em;
     right: 1em;
-}
-
-/* Make me pretty! */
-body {
-    font: 12px Ubuntu, Arial, sans-serif;
-    margin: 20px;
-}
-
-div {
-    margin-top: 2em;
 }
